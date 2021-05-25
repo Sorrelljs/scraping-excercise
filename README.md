@@ -17,4 +17,5 @@
 - Mostly Vanilla JS
 - Async, Await
 
-file:///Users/sorrellsohota/Desktop/US-States.png
+![US-States](https://user-images.githubusercontent.com/56169143/119446133-c3e30d00-bce2-11eb-894f-3ad027ec66f2.png)
+
